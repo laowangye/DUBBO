@@ -38,6 +38,11 @@ public class UserController {
         return "hello user";
     }
 
+    @RequestMapping("index1")
+    @ResponseBody
+    public String index1(){
+        return "hello user";
+    }
 
 
 }
