@@ -1,2 +1,2 @@
-# gmall0408 本地修改版本
-
+gmall-user-web:   port:8080
+gmall-user-ervice:port:8070
